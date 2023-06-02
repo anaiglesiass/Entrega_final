@@ -1,1 +1,3 @@
-# Entrega_final
+# Entrega final
+Se ha decidido dejar el segundo apellido como un input opcional al existir muchas nacionalidades que no contemplan esa opción.
+Además, se añade un botón que oculta la información sobre los usuarios en la base de datos y que solo aparece cuando hemos consultado esta información. Se ha decidido también mostrar los usuarios de la base de datos en formato tabular y empleando los campos nombre primer apellido y correo electrónico como identificadores. Dado que el email es un índice en la base de datos, no puede haber duplicados y, por lo tanto, esos tres campos serían una clave candidata (identifican de manera unívoca los elementos de la BBDD).
